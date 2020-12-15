@@ -1,0 +1,27 @@
+h1 {color: blue;}
+p	{color:
+ gray;}
+ .textred {color: red;
+
+ }
+ .frontsize {font-size: 30px
+}
+ #photopook	{ height: 100px;
+	width: 200px;
+	object-fit: cover; 
+	border-radius: 55px;
+	box-shadow: 0 0 20px 
+ } 
+.card { border: 2px solid	black;
+	width: 60%;
+	text-align: center;
+margin: 10px auto 10px auto
+padding:;
+}
+.exemple {
+  text-align: right;
+  border: solid;}
+
+.exemple2 { 
+	text-align: left;
+	border: solid;
